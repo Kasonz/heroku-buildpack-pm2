@@ -2,5 +2,3 @@
 # bin/compile <build-dir> <cache-dir>
 
 npm i -g pm2
-pm2 install gc-stats
-pm2 install event-loop-inspector
